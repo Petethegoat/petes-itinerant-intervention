@@ -1,0 +1,12 @@
+[package]
+name = "Pete's Itinerant Intervention"
+description = "Add new functionality to Intervention & Recall spells."
+repository = "https://github.com/Petethegoat/petes-itinerant-intervention"
+authors = [ "Pete Goodfellow",]
+version = "1.0.0"
+
+[dependencies]
+assets = [ "MWSE\\mods\\Pete's Itinerant Intervention",]
+
+[dependencies.mwse]
+buildnumber = 4201
